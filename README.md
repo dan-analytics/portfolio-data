@@ -1,4 +1,4 @@
-# Data Analysis Portfolio – Maria Daniela Simónovich
+# Data Analysis Portfolio – Maria Daniela Simunovich
 
 Hi! I'm Maria Daniela, a Data Analyst in training focused on Business Intelligence, data visualization, and data-driven decision-making.  
 I work with Tableau, Power BI, Excel, Google Sheets, and SQL.
